@@ -1,0 +1,17 @@
+{
+    "nonew":true,
+    "curly":true,
+    "noarg":true,
+    "forin":true,
+    "noempty":true,
+    "asi":true,
+    "eqeqeq":true,
+    "strict":true,
+    "undef":true,
+    "bitwise":true,
+    "newcap":true,
+    "immed":true,
+    "node":true,
+    "camelcase":true,
+    "predef": ["-Promise","it","before","describe"]
+}
